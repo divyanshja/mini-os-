@@ -1,4 +1,5 @@
 # mini-os-
 To run the file 
 
-command  = "gcc 
+command  = "gcc osproject.c " 
+           then "./a.out"
